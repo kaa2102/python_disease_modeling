@@ -1,4 +1,4 @@
-This is a Python Disease Modeling Simulation
+Python Disease Modeling Simulation Code 
 1. Susceptible, Infectious, Recovered (SIR) Model
 2. Susceptible, Exposed, Infectious, Recovered (SEIR) Model
 
